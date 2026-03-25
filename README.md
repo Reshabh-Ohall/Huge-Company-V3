@@ -1,5 +1,5 @@
 # Huge-Company-V3
-Huge-Company-V3 is the Fourth IDEA of how the Web-App/Website/Site should look like...
+Huge-Company-V3 is the third IDEA of how the Web-App/Website/Site should look like...
 If you want different design styles then change the V3 to V4 or V2 or V1 in the URL. Thank You for Checking this REPO OUT!!
 
 
